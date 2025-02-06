@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\Source\\Mythic_Planet\\Mythic_Planet.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\.vscode\\compileCommands_Default\\Mythic_Planet.1.rsp"
+		],
+		"directory": "D:\\Code\\Engines\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\Source\\Mythic_Planet\\Mythic_Planet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\.vscode\\compileCommands_Default\\Mythic_Planet.1.rsp"
+		],
+		"directory": "D:\\Code\\Engines\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\Source\\Mythic_Planet\\Mythic_Planet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Util\\Documents\\Unreal Projects\\Mythic_Planet\\.vscode\\compileCommands_Default\\Mythic_Planet.1.rsp"
+		],
+		"directory": "D:\\Code\\Engines\\UE_5.5\\Engine\\Source"
+	}
+]
